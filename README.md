@@ -1,1 +1,1 @@
-1.fib.py== a program to show how recursion method is not advisable.
+1.fib.py== a program to show how recursion method for Fibonacci series is not advisable.
